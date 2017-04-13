@@ -7,5 +7,9 @@ class Sum_class
 		int c=a+b;
 		System.out.println("hai1");
 		return c;
-	}		
+	}
+	int mul(int a,int b)
+	{
+		return a*b;
+	}
 }
