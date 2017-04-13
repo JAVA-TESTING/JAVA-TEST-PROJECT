@@ -5,7 +5,7 @@ class Sum_class
 	sum_method(int a,int b)
 	{
 		int c=a+b;
-		System.out.println("hai");
+		System.out.println("hai1");
 		return c;
 	}		
 }
