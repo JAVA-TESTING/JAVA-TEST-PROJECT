@@ -12,5 +12,7 @@ public class Testing_java{
 		int sum_res = s.sum_method(a,b);
 		System.out.println("sum is "+sum_res);
 		System.out.println("KRISHJA TE JBSBHSBDHJS");
+		System.out.println("Sai Raj JBSBHSBDHJS");
+
 	}
 }
