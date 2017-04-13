@@ -1,0 +1,7 @@
+class Trying_for_child{
+    int met(){
+        System.out.println("hi");
+
+    }
+
+}
