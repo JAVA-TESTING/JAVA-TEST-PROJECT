@@ -20,17 +20,7 @@ public class Testing_java{
         		System.out.println("This is modified due to sai");
                 System.out.println("Hi KT i too know how to update in Git using push command");
                 System.out.println("hey i'm dng for the next time");
-                System.out.println("KRISHJA TE JBSBHSBDHJS");
-                		System.out.println("Sai Raj JBSBHSBDHJS");
-                		System.out.println("Sandeep");
-                		System.out.println("sairaj is again updating, plz dont delete, add my code kk");
-                		System.out.println("Modified Krishna Teja to Sai Raj");
-                		System.out.println("Hi, I'm Candy");
-                		System.out.println("getting the value from sai raj");
-		System.out.println("This is modified by krishna");
-		System.out.println("This is modified due to sai");
-		System.out.println("Hi KT i too know how to update in Git using push command");
-		System.out.println("dhbdhvbfhx");
+
 
 	}
 }
