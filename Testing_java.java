@@ -17,5 +17,7 @@ public class Testing_java{
 		System.out.println("dhbdhvbfhx");
 		System.out.println("BY Kotagiri sairaj");
 		System.out.println("Arey KT we will get conflicts if we do modification on one file at a time");
+		System.out.println("This is modified due to sai");
+                		System.out.println("Hi KT i too know how to update in Git using push command")
 	}
 }
