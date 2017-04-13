@@ -9,6 +9,6 @@ class Sum_class
 		return c;
 	}
 	int abc(){
-		System.out.prinln("BYe from developer branch");
+		System.out.println("BYe from developer branch");
 	}
 }
