@@ -21,7 +21,5 @@ public class Testing_java{
         System.out.println("Hi KT i too know how to update in Git using push command");
         System.out.println("hey i'm dng for the next time");
         System.out.println("new update from sairaj");
-
-
 	}
 }
